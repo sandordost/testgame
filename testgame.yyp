@@ -1,6 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"Smiley2","path":"objects/Smiley2/Smiley2.yy",},"order":1,},
     {"id":{"name":"Smiley","path":"objects/Smiley/Smiley.yy",},"order":0,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":16,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
