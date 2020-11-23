@@ -16,5 +16,3 @@ y = y - 2;
 if (keyboard_check(vk_down)) {
 y = y + 2;
 }
-
-x+= 2;
